@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" alt="Coding GIF" width="950" height="400" />
 </p>
-![Animation](https://github.com/user-attachments/assets/c8c2a8ce-6909-4d44-a079-69aa2b2f59b1)
+
 
 
 <p align="left"> <a href="https://twitter.com/@priyans70873748" target="blank"><img src="https://img.shields.io/twitter/follow/@priyans70873748?logo=twitter&style=for-the-badge" alt="@priyans70873748" /></a> </p>
