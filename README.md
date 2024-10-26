@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince777a" alt="prince777a" /></a> </p>
 
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=136656169933820536" height="294" width="345" frameborder="0" scrolling="no" ></iframe>
+
 <p align="left"> <a href="https://twitter.com/@priyans70873748" target="blank"><img src="https://img.shields.io/twitter/follow/@priyans70873748?logo=twitter&style=for-the-badge" alt="@priyans70873748" /></a> </p>
 
 - 🔭 I’m currently working on **self-learning Projects**
