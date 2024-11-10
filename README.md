@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&random=false&width=435&lines=heyyo!+I'm+Priyanshu!)](https://git.io/typing-svg)  
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&random=false&width=435&lines=heyyo!+I'm+Priyanshu!)](https://git.io/typing-svg)-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=500&size=32&pause=1000&color=5D9CEC&vCenter=true&width=500&lines=Heyyo!+I'm+Priyanshu!)](https://git.io/typing-svg)
+
 
 ### I am a final year Data Science undergraduate and Manipal Institute of Technology
 <!--<h1 align="center">Hello , I'm Priyanshu 👋 .</h1>-->
