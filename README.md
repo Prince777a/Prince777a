@@ -1,4 +1,7 @@
-<h1 align="center">Hello , I'm Priyanshu 👋 .</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&random=false&width=435&lines=heyyo!+I'm+Priyanshu!)](https://git.io/typing-svg)  
+
+### I am a final year Data Science undergraduate and Manipal Institute of Technology
+<!--<h1 align="center">Hello , I'm Priyanshu 👋 .</h1>-->
 <h3 align="center">A random guy trynna to learn code...</h3>
 
 <p align="center">
